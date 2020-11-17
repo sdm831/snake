@@ -10,6 +10,10 @@ namespace gb_snake
     {
         static void Main(string[] args)
         {
+            static void Draw()
+            {
+
+            }
         }
     }
 }
